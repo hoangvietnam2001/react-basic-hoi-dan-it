@@ -39,6 +39,7 @@ class FormComponent extends React.Component {
                         onChange={(e) => { this.handleOnChangeLastName(e); }}
                     />
                     <br />
+                    <h1>Xin Chao Anh Em</h1>
                     <br />
                     <input
                         type="submit"
